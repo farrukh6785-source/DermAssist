@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "193796436282",
+    "project_id": "dermassist-d8a65",
+    "storage_bucket": "dermassist-d8a65.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193796436282:android:7e53b2f3890a855c5fa003",
+        "android_client_info": {
+          "package_name": "com.example.dermassist_fyp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193796436282-asp5n7vnmql7k7ug49eso5u8mvmn84hm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChKkqB_0hrxCxSzNEHVt2I4hGi7CdzByk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193796436282-asp5n7vnmql7k7ug49eso5u8mvmn84hm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
